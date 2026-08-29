@@ -208,7 +208,7 @@ fin.ipynb
 1. Clone this repository:
 
 ```bash
-git clone git@github.com:AbrarJU/Finance-Project.git
+git clone git@github.com:ankit8240/Finance-Project.git
 ```
 
 2. Open the project folder in **VS Code**.
