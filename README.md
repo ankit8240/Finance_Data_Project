@@ -4,7 +4,7 @@ An exploratory and in-depth **financial data analysis project** focused on analy
 
 The project demonstrates how financial market data can be collected, processed, analyzed, and visualized to understand **stock performance, returns, volatility, risk, correlations, moving averages, and market behavior**.
 
-> ⚠️ **Disclaimer:** This project is for educational and data-analysis practice purposes only. It is not intended to provide financial advice or serve as professional investment analysis.
+
 
 ---
 
@@ -256,14 +256,6 @@ The analysis demonstrates that:
 
 ---
 
-## ⚠️ Disclaimer
 
-This repository is an **educational data-analysis project**.
-
-The information and analysis presented here should **not be considered financial, investment, or trading advice**.
-
-Always conduct independent research and consult a qualified financial professional before making investment decisions.
-
----
 
 ⭐ If you found this project useful, consider giving the repository a **star**!
